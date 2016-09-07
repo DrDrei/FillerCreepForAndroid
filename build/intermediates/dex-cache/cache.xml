@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/drei/Desktop/FillerCreepForAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="756aa9f0d289f38c5fba24a5780324361663cd3f">
+        <dex dex="/Users/drei/Desktop/FillerCreepForAndroid/app/build/intermediates/pre-dexed/debug/instant-run_ccf9a6418e8f6c4406ef5f4830bf7898a89509f0.jar" />
+    </item>
+    <item
+        jar="/Users/drei/Desktop/FillerCreepForAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cc34996e9dfd48dc7935a7971face3e24a372c17">
+        <dex dex="/Users/drei/Desktop/FillerCreepForAndroid/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d54fa1fa1eea0fa87655121b2b362bc3c38cd004.jar" />
+    </item>
+
+</items>
